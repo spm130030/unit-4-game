@@ -1,0 +1,47 @@
+#header {
+    font-family: 'Germania One', cursive;
+    color: white;
+}
+
+.rowOne {
+    font-family: 'Autour One', cursive; 
+    color: white;
+}
+
+.card {
+    font-family: 'Autour One', cursive;
+}
+
+.list-group {
+    font-weight: bold;
+}
+
+.row {
+    display: flex;
+}
+  
+#crystalOne {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+#crystalTwo {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+#crystalThree {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+#crystalFour {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+  
+
